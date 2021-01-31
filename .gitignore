@@ -1,8 +1,5 @@
 .env
 
-/client/react-native/android
-/client/react-native/ios
-
 # OSX
 #
 .DS_Store
