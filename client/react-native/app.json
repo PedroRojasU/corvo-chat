@@ -1,0 +1,12 @@
+{
+  "name": "corvo-chat-native",
+  "displayName": "corvo-chat-native",
+  "expo": {
+    "name": "corvo-chat-native",
+    "slug": "corvo-chat-native",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}

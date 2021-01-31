@@ -1,5 +1,7 @@
-/server/node_modules
-/server/.env
+.env
+
+/client/react-native/android
+/client/react-native/ios
 
 # OSX
 #
@@ -7,7 +9,7 @@
 
 # Xcode
 #
-build/
+/build/
 *.pbxuser
 !default.pbxuser
 *.mode1v3
